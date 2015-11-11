@@ -17,28 +17,28 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > ColorPicker
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > A visual guide to choosing colors.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > This webapp will provide a palette of colors within a range of your initial choice. Mousing over the resulting wall of colors will display the hex values for each swatch. 
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > Choosing colors can often feel like a tedious task.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  > This product will allow users to choose colors more intuitively.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > Let your eyes be your guide.
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  > Simple click on a color to see a range of shades to choose from. If you don't see what you like, click again.
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  > I found the perfect shade of "igneous blue" after only 3 clicks.
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  > Click on any color to get started!
