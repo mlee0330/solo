@@ -2,11 +2,10 @@ body {
   background: white;
 }
 
-/* .wall {
- display: inline-block;
+ .wall {
+ display: block;
  position: relative;
- width: 90%;
- height: 90%;
+ margin: auto;
  vertical-align: middle;
- background: #9FF60C; 
-} */
+ 
+} 
