@@ -29,16 +29,16 @@ Once the project moves into development, the press release can be used as a touc
   > Choosing colors can often feel like a tedious task.
 
 ## Solution ##
-  > This product will allow users to choose colors more intuitively.
+  > This product will allow users to choose colors more intuitively from a cornucopia of visual splendor.
 
 ## Quote from You ##
   > Let your eyes be your guide.
 
 ## How to Get Started ##
-  > Simple click on a color to see a range of shades to choose from. If you don't see what you like, click again.
+  > Simply click on a color to see a range of shades to choose from. If you don't see what you need, click again.
 
 ## Customer Quote ##
-  > I found the perfect shade of "igneous blue" after only 3 clicks.
+  > I found the perfect shade of "igneous blue" to accent the "springtime mud" of my header background after only 3 clicks.
 
 ## Closing and Call to Action ##
   > Click on any color to get started!
