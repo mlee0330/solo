@@ -10,11 +10,9 @@ body {
  background-color: black;
 } 
 
-/*.init {
-    margin: 0;
-    background: yellow;
-    position: absolute;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%) 
-  }*/
+.color {
+  font-family: arial;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
