@@ -1,5 +1,5 @@
 body {
-  background: white;
+  background: black;
 }
 
  .wall {
@@ -7,6 +7,7 @@ body {
  position: relative;
  margin: auto;
  vertical-align: middle;
+ background-color: black;
 } 
 
 /*.init {
